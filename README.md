@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aasish Kharel</h1>
 <p>A tech enthusiast and full stack MERN developer. I have hands-on experience with React, Node.js, Express, and MongoDB. I am constantly learning and ready to take on any technology that comes my way. I focus on building projects that challenge my skills. I am exploring AI integration and continuously improving my skills. I like creating projects that solve problems and challenge me. My goal is to grow as a developer and build meaningful products. </p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h2> Languages and Tools I Use</h2>
 <p>
   <!-- Frontend -->
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block;">
@@ -52,6 +52,6 @@
   </a>
 </p>
 
-<h2>⚡️ Where to find me</h2>
+<h2> Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/aasish-kharel-2306712a8" style="display: inline-block;">
 <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=0a77b6" alt="LinkedIn" /></a></p>
