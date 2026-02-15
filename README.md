@@ -1,5 +1,5 @@
 <h1>Hi, I'm Aasish Kharel</h1>
-<p>A tech enthusiast and full stack MERN developer. I have hands-on experience with React, Node.js, Express, and MongoDB. I am constantly learning and ready to take on any technology that comes my way. I focus on building projects that challenge my skills. I am exploring AI integration and continuously improving my skills. I like creating projects that solve problems and challenge me. My goal is to grow as a developer and build meaningful products. </p>
+<p>A tech enthusiast and full stack MERN developer. I have hands-on experience with React, Node.js, Express, and MongoDB. I am constantly learning and ready to take on any technology that comes my way. I focus on building projects that challenge my skills. I am exploring AI integration and continuously improving my skills. My goal is to grow as a developer and build meaningful products that can solve real world problem. </p>
 <h2> Languages and Tools I Use</h2>
 <p>
   <!-- Frontend -->
