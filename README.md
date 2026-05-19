@@ -28,7 +28,10 @@ Currently, I am exploring AI integration, RAG systems, LangChain, and intelligen
 </a>
 
 <a target="_blank" href="https://www.langchain.com/" style="display: inline-block;">
-  <img src="https://python.langchain.com/img/favicon.ico"   alt="LangChain" width="42" height="42" />
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" 
+       alt="LangChain" 
+       width="42" 
+       height="42" />
 </a>
 
   <!-- Python & Data -->
