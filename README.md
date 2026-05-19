@@ -1,9 +1,9 @@
 <h1>Hi, I'm Aasish Kharel</h1>
 <p>I am a passionate tech enthusiast. I enjoy building scalable and user-focused applications that solve real-world problems. I constantly challenge myself with new projects and technologies to expand my skills and stay ahead in the evolving tech landscape.
-Currently, I am exploring AI integration, RAG systems, LangChain, and intelligent system design to build smarter and more impactful solutions. I believe in continuous learning, strong problem-solving, and writing clean, efficient code. My goal is to grow into a skilled AI Engineer and innovator, building project that make a real difference. </p>
+Currently, I am exploring AI integration, RAG systems, LangChain, and intelligent system design to build smarter and more impactful solutions. I believe in continuous learning, strong problem-solving, and writing clean, efficient code. My goal is to become a skilled AI engineer, applying machine learning and AI to build practical solutions that solve real-world problems. </p>
 <h2> Languages and Tools I Use</h2>
 <p>
-  <div style="display:inline-block; margin-right:18px;">
+  <div style="display:inline-block;">
 
   <!-- JavaScript -->
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
