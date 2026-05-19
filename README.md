@@ -8,7 +8,7 @@ Currently, I am exploring AI integration, RAG systems, LangChain, and intelligen
   <!-- JavaScript -->
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
-  </a>
+  </a>&nbsp;
 
   <!-- Django -->
   <a target="_blank" href="https://www.djangoproject.com/">
@@ -18,37 +18,37 @@ Currently, I am exploring AI integration, RAG systems, LangChain, and intelligen
   <!-- FastAPI -->
   <a target="_blank" href="https://fastapi.tiangolo.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="42" height="42" />
-  </a>
+  </a>&nbsp;
 
   <!-- LangChain -->
   <a target="_blank" href="https://www.langchain.com/">
     <img src="https://api.nuget.org/v3-flatcontainer/langchain/0.2.6/icon" alt="LangChain" width="42" height="42" />
-  </a>
+  </a>&nbsp;
 
   <!-- Python -->
   <a target="_blank" href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
-  </a>
+  </a>&nbsp;
 
   <!-- Pandas -->
   <a target="_blank" href="https://pandas.pydata.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42" />
-  </a>
+  </a>&nbsp;
 
   <!-- NumPy -->
   <a target="_blank" href="https://numpy.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="42" height="42" />
-  </a>
+  </a>&nbsp;
 
   <!-- PyTorch -->
   <a target="_blank" href="https://pytorch.org/">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42" />
-  </a>
+  </a>&nbsp;
 
   <!-- Git -->
   <a target="_blank" href="https://git-scm.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42" />
-  </a>
+  </a>&nbsp;
 
 </div>
 
