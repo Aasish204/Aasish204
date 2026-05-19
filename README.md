@@ -19,6 +19,10 @@ Currently, I am exploring AI integration, RAG systems, LangChain, and intelligen
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django"   width="42"  height="42" />
 </a>
 
+<a target="_blank" href="https://fastapi.tiangolo.com/" style="display: inline-block;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"  alt="FastAPI"  width="42"  height="42" />
+</a>
+
   <a target="_blank" href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" style="display: inline-block;">
   <img src="https://img.shields.io/badge/RAG-AI-blue?style=for-the-badge" alt="RAG" />
 </a>
