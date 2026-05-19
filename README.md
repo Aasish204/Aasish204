@@ -3,62 +3,54 @@
 Currently, I am exploring AI integration, RAG systems, LangChain, and intelligent system design to build smarter and more impactful solutions. I believe in continuous learning, strong problem-solving, and writing clean, efficient code. My goal is to grow into a skilled software engineer and innovator, creating meaningful products that make a real difference. </p>
 <h2> Languages and Tools I Use</h2>
 <p>
-  <!-- Frontend -->
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: inline-block;">
+  <div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
+
+  <!-- JavaScript -->
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
   </a>
 
-  <!-- Backend -->
-  <a target="_blank" href="https://www.djangoproject.com/" style="display: inline-block;">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django"   width="42"  height="42" />
-</a>
+  <!-- Django -->
+  <a target="_blank" href="https://www.djangoproject.com/">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="42" height="42" />
+  </a>
 
-<a target="_blank" href="https://fastapi.tiangolo.com/" style="display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"  alt="FastAPI"  width="42"  height="42" />
-</a>
+  <!-- FastAPI -->
+  <a target="_blank" href="https://fastapi.tiangolo.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="42" height="42" />
+  </a>
 
-  <a target="_blank" href="https://www.langchain.com/" style="display: inline-block;">
-  <img src="https://api.nuget.org/v3-flatcontainer/langchain/0.2.6/icon"
-       alt="LangChain"
-       width="42"
-       height="42" />
-</a>
+  <!-- LangChain -->
+  <a target="_blank" href="https://www.langchain.com/">
+    <img src="https://api.nuget.org/v3-flatcontainer/langchain/0.2.6/icon" alt="LangChain" width="42" height="42" />
+  </a>
 
-<a target="_blank" href="https://www.langchain.com/" style="display: inline-block;">
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" 
-       alt="LangChain" 
-       width="42" 
-       height="42" />
-</a>
-
-  <!-- Python & Data -->
-  <a target="_blank" href="https://www.python.org/" style="display: inline-block;">
+  <!-- Python -->
+  <a target="_blank" href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://pandas.pydata.org/" style="display: inline-block;">
+
+  <!-- Pandas -->
+  <a target="_blank" href="https://pandas.pydata.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://numpy.org/" style="display: inline-block;">
+
+  <!-- NumPy -->
+  <a target="_blank" href="https://numpy.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://pytorch.org/" style="display: inline-block;">
+
+  <!-- PyTorch -->
+  <a target="_blank" href="https://pytorch.org/">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42" />
   </a>
 
-  <!-- Tools -->
-  <a target="_blank" href="https://git-scm.com/" style="display: inline-block;">
+  <!-- Git -->
+  <a target="_blank" href="https://git-scm.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://www.figma.com/" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" />
-  </a>
-</p>
+
+</div>
 
 <h2> Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/aasish-kharel-2306712a8" style="display: inline-block;">
