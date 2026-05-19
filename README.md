@@ -13,7 +13,7 @@ Currently, I am exploring AI integration, RAG systems, LangChain, and intelligen
   <!-- Django -->
   <a target="_blank" href="https://www.djangoproject.com/">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="42" height="42" />
-  </a>
+  </a>&nbsp;
 
   <!-- FastAPI -->
   <a target="_blank" href="https://fastapi.tiangolo.com/">
