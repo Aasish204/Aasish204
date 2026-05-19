@@ -23,8 +23,9 @@ Currently, I am exploring AI integration, RAG systems, LangChain, and intelligen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"  alt="FastAPI"  width="42"  height="42" />
 </a>
 
-  <a target="_blank" href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/RAG-AI-blue?style=for-the-badge" alt="RAG" />
+  <a target="_blank" href="https://www.langchain.com/" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" 
+       alt="LangChain" />
 </a>
 
 <a target="_blank" href="https://www.langchain.com/" style="display: inline-block;">
