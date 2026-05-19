@@ -3,7 +3,7 @@
 Currently, I am exploring AI integration, RAG systems, LangChain, and intelligent system design to build smarter and more impactful solutions. I believe in continuous learning, strong problem-solving, and writing clean, efficient code. My goal is to grow into a skilled software engineer and innovator, creating meaningful products that make a real difference. </p>
 <h2> Languages and Tools I Use</h2>
 <p>
-  <div style="display: flex; flex-wrap: wrap; gap: 14px; align-items: center;">
+  <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 
   <!-- JavaScript -->
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
