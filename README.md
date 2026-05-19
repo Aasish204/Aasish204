@@ -10,7 +10,6 @@ Currently, I am exploring AI integration, RAG systems, LangChain, and intelligen
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
   </a>&nbsp;
 
-    <!-- Python -->
   <a target="_blank" href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
   </a>&nbsp;
