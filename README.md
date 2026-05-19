@@ -24,7 +24,7 @@ Currently, I am exploring AI integration, RAG systems, LangChain, and intelligen
 </a>
 
   <a target="_blank" href="https://www.langchain.com/" style="display: inline-block;">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png"
+  <img src="https://api.nuget.org/v3-flatcontainer/langchain/0.2.6/icon"
        alt="LangChain"
        width="42"
        height="42" />
