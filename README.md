@@ -1,6 +1,8 @@
 <h1>Hi, I'm Aasish Kharel</h1>
-<p>I am a passionate tech enthusiast. I enjoy building scalable and user-focused applications that solve real-world problems. I constantly challenge myself with new projects and technologies to expand my skills and stay ahead in the evolving tech landscape.
-Currently, I am exploring AI integration, RAG systems, LangChain, and intelligent system design to build smarter and more impactful solutions. I believe in continuous learning, strong problem-solving, and writing clean, efficient code. My goal is to become a skilled AI engineer, applying machine learning and AI to build practical solutions that solve real-world problems. </p>
+<p>
+I am an AI/ML enthusiast interested in building intelligent systems that solve real-world problems. I enjoy exploring new technologies, experimenting with ideas, and developing practical solutions through code.
+Currently, I am strengthening my foundations in machine learning, data analysis, model building, and AI engineering using Python and modern ML tools. I am exploring areas like deep learning, natural language processing, and intelligent systems while continuously improving my technical skills.
+ </p>
 <h2> Languages and Tools I Use</h2>
 <p>
   <div style="display:inline-block;">
